@@ -3,7 +3,7 @@ package algorithms;
 import java.util.ArrayList;
 import java.util.List;
 
-public class CollectionFlatter {
+public class CollectionFlattener {
 
     public List getFlattenedCollection(List collection) {
         List accumulator = new ArrayList();
